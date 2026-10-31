@@ -1,5 +1,5 @@
 # GoalChain AgentPay — A2A match settlement on HashKey Chain (HSP)
-Hackathon: HashKey Chain Horizon (Agent Payments & A2A Settlement), https://dorahacks.io/hackathon/2045. Built 26 Oct 2026.
+Hackathon: HashKey Chain Horizon, Mumbai Edition (track: Agent Payments & A2A Settlement), https://dorahacks.io/hackathon/hskchainindia/detail. Built 26 Oct 2026.
 
 - `contracts/MatchEscrow.sol`: escrow holding HSK or ERC20 stablecoin (USDT/USDC) until the oracle reports a winner, with refunds after the deadline.
 - `agent/demo.js`: Scout and Trader agents negotiate, issue HSP payment requests, and pay inside a spend cap.
