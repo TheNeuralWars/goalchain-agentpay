@@ -16,3 +16,7 @@ Hackathon: HashKey Chain Horizon, Mumbai Edition (track: Agent Payments & A2A Se
 npm install && npx hardhat compile && npx hardhat test && npm run demo
 
 See DEPLOY.md for the mainnet steps.
+
+## Deployed
+- Testnet MatchEscrow: [`0xacA461f8345c0B0D717D15618097c2385525EdeB`](https://testnet-explorer.hsk.xyz/address/0xacA461f8345c0B0D717D15618097c2385525EdeB)
+- Mainnet: pending
